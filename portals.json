@@ -2,7 +2,7 @@
   "portals": [
     {
       "name": "Portal 1",
-      "baseUrl": "https://kviktv.ovh:80"
+      "baseUrl": "http://kviktv.ovh:80"
     },
     {
       "name": "Portal 2",
