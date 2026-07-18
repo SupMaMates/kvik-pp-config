@@ -23,8 +23,9 @@ Keep the repository public so the app can read the file without a GitHub token.
 
 ## Android app
 
-The current release is **KVIK PP 1.1.1** (`com.kvik.perfect`). It includes the
-KVIK launcher/TV/theme branding, Portal 1, Portal 2, manual M3U login, the
-Android 14 storage/install compatibility fix, and the Settings crash fix.
+The current release is **KVIK PP 1.1.2** (`com.kvik.perfect`). It includes the
+compact Serbian Satin portal login, transparent KVIK branding, corrected
+Serbian characters, Standard font and visible EPG defaults, Android 14
+storage/install compatibility, and the Settings crash fix.
 
 APK downloads are published under this repository's Releases section.
