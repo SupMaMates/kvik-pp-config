@@ -30,3 +30,23 @@ ExoPlayer 2.19.1 HW+ engine selected as the default decoder. Version 1.1.6
 restores the original channel-list mini-player and full-screen surface sizing.
 
 APK downloads are published under this repository's Releases section.
+
+## Download KVIK PP
+
+### Direct download
+
+[**Download the latest KVIK PP APK**](https://github.com/SupMaMates/kvik-pp-config/releases/latest/download/KVIK-PP.apk)
+
+### Branded download page
+
+[**pp.kvik.ovh**](https://pp.kvik.ovh)
+
+### Downloader app
+
+Enter this code in the Downloader app:
+
+```text
+9459698
+```
+
+Short URL: [**aftv.news/9459698**](https://aftv.news/9459698)
