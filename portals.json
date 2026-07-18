@@ -1,0 +1,12 @@
+{
+  "portals": [
+    {
+      "name": "Portal 1",
+      "baseUrl": "https://portal-one.example.com"
+    },
+    {
+      "name": "Portal 2",
+      "baseUrl": "https://portal-two.example.com"
+    }
+  ]
+}
