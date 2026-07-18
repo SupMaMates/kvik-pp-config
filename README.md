@@ -23,9 +23,10 @@ Keep the repository public so the app can read the file without a GitHub token.
 
 ## Android app
 
-The current release is **KVIK PP 1.1.2** (`com.kvik.perfect`). It includes the
-compact Serbian Satin portal login, transparent KVIK branding, corrected
-Serbian characters, Standard font and visible EPG defaults, Android 14
-storage/install compatibility, and the Settings crash fix.
+The current release is **KVIK PP 1.1.3** (`com.kvik.perfect`). It includes the
+compact Serbian Satin portal login, fully transparent Satin startup branding,
+corrected Serbian characters, Standard font and visible EPG defaults, Android
+14 storage/install compatibility, and fixes for Settings crashes and scrolling
+render trails.
 
 APK downloads are published under this repository's Releases section.
