@@ -23,12 +23,12 @@ Keep the repository public so the app can read the file without a GitHub token.
 
 ## Android app
 
-The current release is **KVIK PP 1.1.8** (`com.kvik.perfect`). It includes the
+The current release is **KVIK PP 1.1.9** (`com.kvik.perfect`). It includes the
 compact Serbian portal login, transparent KVIK branding, corrected Serbian
 characters, Android 4.4+ compatibility, `.ts` portal streams, and an upgraded
-ExoPlayer 2.19.1 HW+ engine selected as the default decoder. Version 1.1.8
-permanently removes video preview from the channel picker and creates a fresh
-player and buffer session whenever a channel is selected.
+ExoPlayer 2.19.1 HW+ engine selected as the default decoder. Version 1.1.9
+adds a complete professional Serbian translation, fixes the account/logout
+settings styling, and preserves the exact channel order supplied by Xtream.
 
 APK downloads are published under this repository's Releases section.
 
