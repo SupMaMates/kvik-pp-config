@@ -23,12 +23,20 @@ Keep the repository public so the app can read the file without a GitHub token.
 
 ## Android app
 
-The current release is **KVIK PP 1.1.9** (`com.kvik.perfect`). It includes the
-compact Serbian portal login, transparent KVIK branding, corrected Serbian
-characters, Android 4.4+ compatibility, `.ts` portal streams, and an upgraded
-ExoPlayer 2.19.1 HW+ engine selected as the default decoder. Version 1.1.9
-adds a complete professional Serbian translation, fixes the account/logout
-settings styling, and preserves the exact channel order supplied by Xtream.
+The current release is **KVIK PP 1.1.10** (`com.kvik.pp`). It is one universal
+APK for `arm64-v8a`, `armeabi`, `armeabi-v7a`, `x86`, and `x86_64`. Every
+application-owned class, manifest component, remote identifier, preference,
+and launcher resource is now branded as KVIK PP. Required third-party library
+namespaces remain unchanged.
+
+The app includes the compact Serbian portal login, transparent KVIK branding,
+correct Serbian characters, Android 4.4+ compatibility, `.ts` portal streams,
+provider-supplied Xtream channel order, and ExoPlayer 2.19.1 with HW+ selected
+as the default decoder.
+
+> **Package change:** `com.kvik.pp` is a new Android app identity. It cannot
+> update an installed `com.kvik.perfect` build or automatically inherit its
+> saved settings and logins.
 
 APK downloads are published under this repository's Releases section.
 
